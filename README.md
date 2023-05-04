@@ -18,7 +18,7 @@ Uncomment y in update and copy paste the calculation of x into y
 Change canvas.width and this.width to height instead
 Also, change Math.sin to Math.cos
 Math.sin (as seen in movement type two) does calculations for vertical movements whereas Math.cos is its opposite and does it for vertical movements
-Math.sin is the relationship between the hypotenuse and opposite side of a given angle
+Math.sin is the relationship between the hypotenuse(longest side) and opposite side(across the given angle)
 Math.cos is the relationship between the hypotenuse and adjacent side of a given angle
 By combining the 2, you will achive a circular motion in the animation
 Currently, this.curve determines the radius of the motion randomised from 0 to 200
